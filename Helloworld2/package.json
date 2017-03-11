@@ -1,0 +1,22 @@
+{
+  "name": "Helloworld",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.0",
+    "react-native": "0.29.0",
+    "react-native-fetch-blob": "^0.10.2",
+    "react-native-file-opener": "^0.2.0",
+    "react-native-fs": "^2.0.1-rc.2",
+    "react-native-image-picker": "^0.21.1",
+    "react-native-orientation": "^1.17.0",
+    "react-native-refreshable-listview": "^2.0.0-beta4",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-scrollable-tab-view": "^0.5.3",
+    "react-native-vector-icons": "^2.0.3",
+    "react-timer-mixin": "^0.13.3"
+  }
+}
